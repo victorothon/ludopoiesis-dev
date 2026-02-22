@@ -1,0 +1,17 @@
+{
+  "name": "Ludopoiesis - Oráculo Para Jugar la Vida",
+  "short_name": "Ludopoiesis",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f1ee",
+  "theme_color": "#004D4D",
+  "description": "Un oráculo interactivo para jugar con la vida. Tira cartas y deja que la sabiduría hable.",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/img/iconos/icono_naturaleza.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
